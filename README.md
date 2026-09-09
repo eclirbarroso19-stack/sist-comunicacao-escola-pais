@@ -32,4 +32,9 @@ Sistema em Google Sheets com 3 abas integradas que funciona como um banco de dad
 - Bot simples de WhatsApp
 
 ### Prints do Sistema
-[Colocar aqui os prints do Dashboard e da aba Série/turma]
+[<img width="1896" height="811" alt="image" src="https://github.com/user-attachments/assets/e5768fa6-1a56-4fd0-a850-24d89761c62c" />
+]
+[<img width="1917" height="632" alt="image" src="https://github.com/user-attachments/assets/1908da30-cd82-4f7d-b2c8-4ffea5cbd63a" />
+]
+[<img width="1910" height="822" alt="image" src="https://github.com/user-attachments/assets/712487d2-8a92-4668-8d50-2b6ddc029c50" />
+]
