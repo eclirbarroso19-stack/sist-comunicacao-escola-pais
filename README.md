@@ -1,6 +1,6 @@
-# sist-comunicacao-escola-pais
+# sistema-comunicacao-escola-pais
 Sistema para controle de presença de pais e encaminhamento para Conselho Tutelar - V1 em Google Sheets
-# Sist. Comunicação Escola-Pais via WhatsApp
+# Sistema. Comunicação Escola-Pais via WhatsApp
 
 Projeto desenvolvido para resolver um problema real da educação municipal de Jutaí-AM: pais que não comparecem às convocações da escola.
 
